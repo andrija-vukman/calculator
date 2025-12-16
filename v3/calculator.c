@@ -1,7 +1,7 @@
 // Author: Andrija Vukman
 // Date: 2025-12-10
 // CALCULATOR
-// Version 2
+// Version 3
 
 
 #include <stdio.h>
